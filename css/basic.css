@@ -1,0 +1,11 @@
+html body {
+    background: rebeccapurple;
+}
+
+.color {
+    background:  red;
+}
+
+#main {
+    background: blue;
+}
